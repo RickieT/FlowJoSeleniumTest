@@ -21,11 +21,23 @@ public class CalculatorStory1 {
 
         @Test
         public void firstTest() throws Exception {
-            System.setProperty("webdriver.chrome.driver", "/Users/rickythornley/repo/DOrg2-Automated-Tests/drivers/chrome/chromedriver");
+            System.setProperty("webdriver.chrome.driver", "/Users/rickythornley/repo/FlowJoSeleniumTest/src/drivers/chromedriver");
             WebDriver driver = new ChromeDriver();
             driver.get( "http://compendiumdev.co.uk/selenium" );
 
             Assert.assertEquals( "This should start with Selenium Simplified",  "Selenium Simplified book and ebook on Automated Web Testing with Java and Selenium RC", driver.getTitle());
+
+
+            driver.quit();
+        }
+
+
+        @Test
+    public void secondTest() throws Exception {
+            System.setProperty("webdriver.chrome.driver", "/Users/rickythornley/repo/FlowJoSeleniumTest/src/drivers/chromedriver");
+            WebDriver driver = new ChromeDriver();
+            driver.get( "http://compendiumdev.co.uk/selenium" );
+            Assert.assertTrue("Error: Title is '" + driver.getTitle() + "', and does not contain Farts", driver.getTitle().startsWith("Selenium Farts"));
 
             driver.quit();
         }
