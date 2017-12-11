@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd7cac2f-e0b4-42b2-8013-8ab4713cdacc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/drivers/chromedriver" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/Calc.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/javaScriptCalculator/tests/CalculatorStory1.class" afterPath="$PROJECT_DIR$/target/test-classes/javaScriptCalculator/tests/CalculatorStory1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/javaScriptCalculator/tests/CalculatorStory1.java" afterPath="$PROJECT_DIR$/src/test/java/javaScriptCalculator/tests/CalculatorStory1.java" />
@@ -21,21 +21,31 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="0">
               <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculatorStory1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CalculatorStory1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/javaScriptCalculator/tests/CalculatorStory1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+            <state relative-caret-position="209">
+              <caret line="39" column="109" lean-forward="true" selection-start-line="39" selection-start-column="109" selection-end-line="39" selection-end-column="109" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calc.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/Calc.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -72,6 +82,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/javaScriptCalculator/tests/CalculatorStory1.java" />
+        <option value="$PROJECT_DIR$/html/Calc.html" />
       </list>
     </option>
   </component>
@@ -83,8 +94,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3651" />
-    <option name="y" value="241" />
+    <option name="x" value="3629" />
+    <option name="y" value="103" />
     <option name="width" value="1893" />
     <option name="height" value="1025" />
   </component>
@@ -106,8 +117,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,22 +129,24 @@
             <path>
               <item name="FlowJoSeleniumTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="FlowJoSeleniumTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/drivers" />
       <recent name="$PROJECT_DIR$/src/webDrivers" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/drivers" />
       <recent name="$PROJECT_DIR$/src/webDrivers" />
     </key>
@@ -150,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorStory1.secondTest">
+  <component name="RunManager" selected="JUnit.CalculatorStory1.firstTest">
     <configuration name="CalculatorStory1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -313,8 +326,8 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.secondTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.firstTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.firstTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.secondTest" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorStory1" />
       </list>
     </recent_temporary>
@@ -333,39 +346,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatorStory1_secondTest - 2017.12.08 at 08h 30m 23s.xml">
-      <configuration name="CalculatorStory1.secondTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 45m 28s.xml">
+      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_secondTest - 2017.12.08 at 08h 31m 32s.xml">
-      <configuration name="CalculatorStory1.secondTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 45m 44s.xml">
+      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_secondTest - 2017.12.08 at 08h 31m 45s.xml">
-      <configuration name="CalculatorStory1.secondTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 46m 13s.xml">
+      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_secondTest - 2017.12.08 at 08h 32m 02s.xml">
-      <configuration name="CalculatorStory1.secondTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 48m 44s.xml">
+      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_secondTest - 2017.12.08 at 08h 32m 18s.xml">
-      <configuration name="CalculatorStory1.secondTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 49m 53s.xml">
+      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_secondTest - 2017.12.08 at 08h 33m 52s.xml">
-      <configuration name="CalculatorStory1.secondTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 51m 27s.xml">
+      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_secondTest - 2017.12.08 at 08h 34m 02s.xml">
-      <configuration name="CalculatorStory1.secondTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 52m 00s.xml">
+      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_secondTest - 2017.12.08 at 08h 34m 36s.xml">
-      <configuration name="CalculatorStory1.secondTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 55m 37s.xml">
+      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_secondTest - 2017.12.08 at 08h 35m 13s.xml">
-      <configuration name="CalculatorStory1.secondTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 56m 01s.xml">
+      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_secondTest - 2017.12.08 at 08h 37m 09s.xml">
-      <configuration name="CalculatorStory1.secondTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 57m 08s.xml">
+      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="3651" y="241" width="1893" height="1025" extended-state="0" />
+    <frame x="3629" y="103" width="1893" height="1025" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -376,24 +389,24 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24731183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19016747" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19178823" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -401,21 +414,37 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/javaScriptCalculator/tests/CalculatorStory1.java</url>
-          <line>22</line>
-          <properties class="javaScriptCalculator.tests.CalculatorStory1" method="firstTest">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlowJoSeleniumTest.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="9" lean-forward="false" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/javaScriptCalculator/tests/CalculatorStory1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FlowJoSeleniumTest.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1054">
@@ -450,20 +479,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/javaScriptCalculator/tests/CalculatorStory1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        <state relative-caret-position="209">
+          <caret line="39" column="109" lean-forward="true" selection-start-line="39" selection-start-column="109" selection-end-line="39" selection-end-column="109" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/html/Calc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="327">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
           <folding />
         </state>
       </provider>

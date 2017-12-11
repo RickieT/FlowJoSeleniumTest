@@ -13,19 +13,22 @@ import static org.junit.Assert.assertTrue;
 import static junit.framework.Assert.assertTrue;
 import static org.junit.Assert.assertEquals;
 
-
+//file:///Users
 
 
 public class CalculatorStory1 {
 
 
         @Test
-        public void firstTest() throws Exception {
+        // Verify Page title to ensure test begins on proper page, the HTML does not designate a page title, so this test cannot pass until implemented
+
+        public void CheckTitle() throws Exception {
+            // -- Setup
             System.setProperty("webdriver.chrome.driver", "/Users/rickythornley/repo/FlowJoSeleniumTest/src/drivers/chromedriver");
             WebDriver driver = new ChromeDriver();
-            driver.get( "http://compendiumdev.co.uk/selenium" );
+            driver.get( "file:///users/rickythornley/repo/FlowJoSeleniumTest/html/Calc.html" );
 
-            Assert.assertEquals( "This should start with Selenium Simplified",  "Selenium Simplified book and ebook on Automated Web Testing with Java and Selenium RC", driver.getTitle());
+            Assert.assertTrue("Error: Title is '" + driver.getTitle() + "', and should be Calc.html", driver.getTitle().startsWith("Calc"));
 
 
             driver.quit();
@@ -33,10 +36,16 @@ public class CalculatorStory1 {
 
 
         @Test
-    public void secondTest() throws Exception {
+        // Test Case # 1: Verify the "=" sign, by it's existence, and functionality --
+        // "Calculator should contain a clickable element containing an = with a corresponding id="equals" ".
+
+        public void equalSignFunction() throws Exception {
+            // -- Setup
             System.setProperty("webdriver.chrome.driver", "/Users/rickythornley/repo/FlowJoSeleniumTest/src/drivers/chromedriver");
             WebDriver driver = new ChromeDriver();
-            driver.get( "http://compendiumdev.co.uk/selenium" );
+            driver.get( "file:///users/rickythornley/repo/FlowJoSeleniumTest/html/Calc.html" );
+
+            // -- Test
             Assert.assertTrue("Error: Title is '" + driver.getTitle() + "', and does not contain Farts", driver.getTitle().startsWith("Selenium Farts"));
 
             driver.quit();
