@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd7cac2f-e0b4-42b2-8013-8ab4713cdacc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/Calc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/javaScriptCalculator/tests/CalculatorStory1.class" afterPath="$PROJECT_DIR$/target/test-classes/javaScriptCalculator/tests/CalculatorStory1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/javaScriptCalculator/tests/CalculatorStory1.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/Calc.html" afterPath="$PROJECT_DIR$/html/Calc.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/javaScriptCalculator/tests/CalculatorStory1.java" afterPath="$PROJECT_DIR$/src/test/java/javaScriptCalculator/tests/CalculatorStory1.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,18 +20,18 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="289">
               <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculatorStory1.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CalculatorStory1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/javaScriptCalculator/tests/CalculatorStory1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="39" column="109" lean-forward="true" selection-start-line="39" selection-start-column="109" selection-end-line="39" selection-end-column="109" />
+            <state relative-caret-position="476">
+              <caret line="252" column="53" lean-forward="true" selection-start-line="252" selection-start-column="53" selection-end-line="252" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -40,12 +39,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Calc.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Assert.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Method.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="497" column="0" lean-forward="false" selection-start-line="497" selection-start-column="0" selection-end-line="497" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReflectiveCallable.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParentRunner.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlockJUnit4ClassRunner.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calc.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/Calc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-              <folding />
+            <state relative-caret-position="152">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding>
+                <element signature="n#style#0;n#TEXTAREA#0;n#TD#0;n#TR#0;n#TABLE#0;n#FORM#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,8 +132,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/javaScriptCalculator/tests/CalculatorStory1.java" />
+        <option value="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class" />
         <option value="$PROJECT_DIR$/html/Calc.html" />
+        <option value="$PROJECT_DIR$/src/test/java/javaScriptCalculator/tests/CalculatorStory1.java" />
       </list>
     </option>
   </component>
@@ -94,10 +146,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3629" />
-    <option name="y" value="103" />
-    <option name="width" value="1893" />
-    <option name="height" value="1025" />
+    <option name="x" value="3360" />
+    <option name="y" value="-131" />
+    <option name="width" value="2018" />
+    <option name="height" value="1162" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -131,6 +183,51 @@
               <item name="FlowJoSeleniumTest" type="462c0819:PsiDirectoryNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="FlowJoSeleniumTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlowJoSeleniumTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlowJoSeleniumTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlowJoSeleniumTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlowJoSeleniumTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlowJoSeleniumTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlowJoSeleniumTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlowJoSeleniumTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javaScriptCalculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlowJoSeleniumTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlowJoSeleniumTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javaScriptCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlowJoSeleniumTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlowJoSeleniumTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javaScriptCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="CalculatorStory1" type="1a9f42e2:ClassTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -163,8 +260,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorStory1.firstTest">
-    <configuration name="CalculatorStory1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CalculatorStory1.CheckAllFunctionsInOneEquasion">
+    <configuration name="CalculatorStory1.CheckAllFunctionsInOneEquasion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="javaScriptCalculator.tests.*" />
@@ -176,32 +273,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="javaScriptCalculator.tests" />
       <option name="MAIN_CLASS_NAME" value="javaScriptCalculator.tests.CalculatorStory1" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="CalculatorStory1.firstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="javaScriptCalculator.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="FlowJoSeleniumTest" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="javaScriptCalculator.tests" />
-      <option name="MAIN_CLASS_NAME" value="javaScriptCalculator.tests.CalculatorStory1" />
-      <option name="METHOD_NAME" value="firstTest" />
+      <option name="METHOD_NAME" value="CheckAllFunctionsInOneEquasion" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -214,7 +286,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="CalculatorStory1.secondTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CalculatorStory1.DecimalCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="javaScriptCalculator.tests.*" />
@@ -226,7 +298,82 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="javaScriptCalculator.tests" />
       <option name="MAIN_CLASS_NAME" value="javaScriptCalculator.tests.CalculatorStory1" />
-      <option name="METHOD_NAME" value="secondTest" />
+      <option name="METHOD_NAME" value="DecimalCheck" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="CalculatorStory1.DivisionCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="javaScriptCalculator.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="FlowJoSeleniumTest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="javaScriptCalculator.tests" />
+      <option name="MAIN_CLASS_NAME" value="javaScriptCalculator.tests.CalculatorStory1" />
+      <option name="METHOD_NAME" value="DivisionCheck" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="CalculatorStory1.MultiplyCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="javaScriptCalculator.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="FlowJoSeleniumTest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="javaScriptCalculator.tests" />
+      <option name="MAIN_CLASS_NAME" value="javaScriptCalculator.tests.CalculatorStory1" />
+      <option name="METHOD_NAME" value="MultiplyCheck" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="CalculatorStory1.SubtractionCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="javaScriptCalculator.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="FlowJoSeleniumTest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="javaScriptCalculator.tests" />
+      <option name="MAIN_CLASS_NAME" value="javaScriptCalculator.tests.CalculatorStory1" />
+      <option name="METHOD_NAME" value="SubtractionCheck" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -319,16 +466,20 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorStory1" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.firstTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.secondTest" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.SubtractionCheck" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.DivisionCheck" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.MultiplyCheck" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.DecimalCheck" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.CheckAllFunctionsInOneEquasion" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.firstTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.secondTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorStory1" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.CheckAllFunctionsInOneEquasion" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.DecimalCheck" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.MultiplyCheck" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.DivisionCheck" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorStory1.SubtractionCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -346,60 +497,60 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 45m 28s.xml">
-      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_CheckAllFunctionsInOneEquasion - 2017.12.11 at 15h 33m 00s.xml">
+      <configuration name="CalculatorStory1.CheckAllFunctionsInOneEquasion" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 45m 44s.xml">
-      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_CheckAllFunctionsInOneEquasion - 2017.12.11 at 15h 33m 17s.xml">
+      <configuration name="CalculatorStory1.CheckAllFunctionsInOneEquasion" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 46m 13s.xml">
-      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_CheckAllFunctionsInOneEquasion - 2017.12.11 at 15h 34m 30s.xml">
+      <configuration name="CalculatorStory1.CheckAllFunctionsInOneEquasion" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 48m 44s.xml">
-      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_DecimalCheck - 2017.12.11 at 15h 28m 18s.xml">
+      <configuration name="CalculatorStory1.DecimalCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 49m 53s.xml">
-      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_DecimalCheck - 2017.12.11 at 15h 28m 43s.xml">
+      <configuration name="CalculatorStory1.DecimalCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 51m 27s.xml">
-      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_DecimalCheck - 2017.12.11 at 15h 28m 52s.xml">
+      <configuration name="CalculatorStory1.DecimalCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 52m 00s.xml">
-      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_DecimalCheck - 2017.12.11 at 15h 29m 00s.xml">
+      <configuration name="CalculatorStory1.DecimalCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 55m 37s.xml">
-      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_DivisionCheck - 2017.12.11 at 15h 17m 17s.xml">
+      <configuration name="CalculatorStory1.DivisionCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 56m 01s.xml">
-      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_MultiplyCheck - 2017.12.11 at 15h 21m 05s.xml">
+      <configuration name="CalculatorStory1.MultiplyCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorStory1_firstTest - 2017.12.11 at 12h 57m 08s.xml">
-      <configuration name="CalculatorStory1.firstTest" configurationId="JUnit" />
+    <history-entry file="CalculatorStory1_SubtractionCheck - 2017.12.11 at 15h 15m 42s.xml">
+      <configuration name="CalculatorStory1.SubtractionCheck" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="3629" y="103" width="1893" height="1025" extended-state="0" />
+    <frame x="3360" y="-131" width="2018" height="1162" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270853" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24731183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31958762" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19178823" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17965586" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26897845" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -414,7 +565,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <option name="time" value="22" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -479,29 +630,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="497" column="0" lean-forward="false" selection-start-line="497" selection-start-column="0" selection-end-line="497" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="289">
           <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/javaScriptCalculator/tests/CalculatorStory1.java">
+    <entry file="file://$PROJECT_DIR$/html/Calc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="39" column="109" lean-forward="true" selection-start-line="39" selection-start-column="109" selection-end-line="39" selection-end-column="109" />
+        <state relative-caret-position="152">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="n#style#0;n#TEXTAREA#0;n#TD#0;n#TR#0;n#TABLE#0;n#FORM#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/Calc.html">
+    <entry file="file://$PROJECT_DIR$/src/test/java/javaScriptCalculator/tests/CalculatorStory1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-          <folding />
+        <state relative-caret-position="476">
+          <caret line="252" column="53" lean-forward="true" selection-start-line="252" selection-start-column="53" selection-end-line="252" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
