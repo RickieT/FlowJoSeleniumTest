@@ -247,10 +247,14 @@ public class CalculatorStory1 {
                 System.out.println("Click on Divide: Success");
                 driver.findElement(By.id("two")).click();
                 System.out.println("Click on Two: Success");
+                driver.findElement(By.id("subtract")).click();
+                System.out.println("Click on Subtract: Success");
+                driver.findElement(By.id("one")).click();
+                System.out.println("Click on One: Success");
                 driver.findElement(By.id("equals")).click();
                 System.out.println("Click on Equals: Success");
                 String display = driver.findElement(By.id("output")).getAttribute("value");
-                assertEquals("Output is " + display, "4", display);
+                assertEquals("Output is " + display, "3", display);
 
         driver.quit();
         }
